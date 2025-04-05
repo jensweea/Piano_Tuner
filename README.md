@@ -1,17 +1,29 @@
-If you want to tune your piano but don't want to pay for an expensive app, this python script is for you!
+# Piano Tuner
 
-I assume you found your way here because you wanted to tune your piano yourself. Maybe you found a free instrument and wanted to give it a go. 
+If you want to tune your piano but don't want to pay for an expensive app, this Python script is for you!
+
+## Introduction
+
+I assume you found your way here because you wanted to tune your piano yourself. Maybe you found a free instrument and wanted to give it a go.  
 Maybe you're fixing an inherited instrument. Maybe you just felt like tuning your normal one yourself.
 
-New to Python? You need Python on your computer to use this script. There are many videos out there that tell you how to set it up on your pc. Follow a recent one.
+## Prerequisites
 
-Assuming you now have Python on your pc:
+### New to Python?
 
-The first thing you want to do is install the requirements according to requirements.txt
+You need Python on your computer to use this script. There are many videos out there that tell you how to set it up on your PC. Follow a recent one.
+
+### Installing Requirements
+
+Assuming you now have Python on your PC:
+
+The first thing you want to do is install the requirements according to `requirements.txt`.
 
 Use the following command to do so:
 
+```bash
 pip install -r requirements.txt
+```
 
 Now it should be as simple as running complete_script.py and follow the instructions.
 
