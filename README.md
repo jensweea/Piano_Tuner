@@ -9,6 +9,8 @@ Maybe you're fixing an inherited instrument. Maybe you just felt like tuning you
 
 ## Prerequisites
 
+You need a microphone and Python (and some libraries)
+
 ### New to Python?
 
 You need Python on your computer to use this script. There are many videos out there that tell you how to set it up on your PC. Follow a recent one.
