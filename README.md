@@ -18,3 +18,8 @@ Now it should be as simple as running complete_script.py and follow the instruct
 Please note: All use of this software is your own responsibility. If you use this program and mess up your instrument, don't come running. 
 By using this software to attempt to tune an instrument you acknowledge that all damage to your instrument is your own fault. 
 If someone is forcing, coercing, or otherwise manipulating you to use this software to tune any instrument, you should probably reevaluate your relationship with that person.
+
+Small disclaimer: I made Copilot make this in one afternoon. If you think it's shit please open a copilot chat and tell them to fix it. 
+
+Best Regards,
+Jens
